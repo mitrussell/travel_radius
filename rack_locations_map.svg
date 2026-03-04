@@ -1,0 +1,59 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white"/>
+<circle cx="528.6997912742454" cy="456.7221964115839" r="5" fill="red"/>
+<text x="536.6997912742454" y="460.7221964115839" font-size="10" fill="black">Phoenix, AZ</text>
+<circle cx="572.2273130942888" cy="524.519369040508" r="5" fill="red"/>
+<text x="580.2273130942888" y="528.519369040508" font-size="10" fill="black">Tucson, AZ</text>
+<circle cx="745.224762001731" cy="366.1876949625011" r="5" fill="red"/>
+<text x="753.224762001731" y="370.1876949625011" font-size="10" fill="black">Ciniza, NM</text>
+<circle cx="407.30738119884415" cy="306.2000840689367" r="5" fill="red"/>
+<text x="415.30738119884415" y="310.2000840689367" font-size="10" fill="black">Las Vegas, NV</text>
+<circle cx="489.5832272734989" cy="222.81697307581692" r="5" fill="red"/>
+<text x="497.5832272734989" y="226.81697307581692" font-size="10" fill="black">Cedar City, UT</text>
+<circle cx="390.2970806676962" cy="489.968142297737" r="5" fill="red"/>
+<text x="398.2970806676962" y="493.968142297737" font-size="10" fill="black">Imperial, CA</text>
+<circle cx="690.6144116931672" cy="276.51047543195966" r="5" fill="red"/>
+<text x="698.6144116931672" y="280.51047543195966" font-size="10" fill="black">Bloomfield, NM</text>
+<circle cx="163.75440501846856" cy="207.31952832901925" r="5" fill="red"/>
+<text x="171.75440501846856" y="211.31952832901925" font-size="10" fill="black">Stockton, CA</text>
+<circle cx="284.4063760344369" cy="423.3269175460721" r="5" fill="red"/>
+<text x="292.4063760344369" y="427.3269175460721" font-size="10" fill="black">Los Angeles, CA</text>
+<circle cx="332.74873152437675" cy="376.66865777305816" r="5" fill="red"/>
+<text x="340.74873152437675" y="380.66865777305816" font-size="10" fill="black">Barstow, CA</text>
+<circle cx="142.1074513397478" cy="109.37921727395445" r="5" fill="red"/>
+<text x="150.1074513397478" y="113.37921727395445" font-size="10" fill="black">Chico, CA</text>
+<circle cx="321.234310215118" cy="423.2273622264994" r="5" fill="red"/>
+<text x="329.234310215118" y="427.2273622264994" font-size="10" fill="black">Colton, CA</text>
+<circle cx="223.29441644464842" cy="274.790380743789" r="5" fill="red"/>
+<text x="231.29441644464842" y="278.790380743789" font-size="10" fill="black">Fresno, CA</text>
+<circle cx="119.06673001974164" cy="217.4299241167231" r="5" fill="red"/>
+<text x="127.06673001974164" y="221.4299241167231" font-size="10" fill="black">San Francisco, CA</text>
+<circle cx="299.8724453721147" cy="437.9449569699786" r="5" fill="red"/>
+<text x="307.8724453721147" y="441.9449569699786" font-size="10" fill="black">Orange, CA</text>
+<circle cx="327.27265013830197" cy="497.2467423287097" r="5" fill="red"/>
+<text x="335.27265013830197" y="501.2467423287097" font-size="10" fill="black">San Diego, CA</text>
+<circle cx="155.69272627512228" cy="172.81254839494704" r="5" fill="red"/>
+<text x="163.69272627512228" y="176.81254839494704" font-size="10" fill="black">Sacramento, CA</text>
+<circle cx="140.1751825643288" cy="241.5831508152475" r="5" fill="red"/>
+<text x="148.1751825643288" y="245.5831508152475" font-size="10" fill="black">San Jose, CA</text>
+<circle cx="253.7197305231723" cy="350.25884383088874" r="5" fill="red"/>
+<text x="261.7197305231723" y="354.25884383088874" font-size="10" fill="black">Bakersfield, CA</text>
+<circle cx="119.83488604931355" cy="222.63445498993406" r="5" fill="red"/>
+<text x="127.83488604931355" y="226.63445498993406" font-size="10" fill="black">Brisbane, CA</text>
+<circle cx="743.4508759128214" cy="366.2374726222871" r="5" fill="red"/>
+<text x="751.4508759128214" y="370.2374726222871" font-size="10" fill="black">Albuquerque, NM</text>
+<circle cx="750.0" cy="550.0" r="5" fill="red"/>
+<text x="758.0" y="554.0" font-size="10" fill="black">El Paso, TX</text>
+<circle cx="222.2372120121956" cy="120.38008008672375" r="5" fill="red"/>
+<text x="230.2372120121956" y="124.38008008672375" font-size="10" fill="black">Sparks/Reno, NV</text>
+<circle cx="50.0" cy="50.0" r="5" fill="red"/>
+<text x="58.0" y="54.0" font-size="10" fill="black">Eureka, CA</text>
+<circle cx="428.1109470719" cy="379.3124045928189" r="5" fill="red"/>
+<text x="436.1109470719" y="383.3124045928189" font-size="10" fill="black">Needles, CA</text>
+<circle cx="427.5843246392551" cy="498.5188380788035" r="5" fill="red"/>
+<text x="435.5843246392551" y="502.5188380788035" font-size="10" fill="black">Yuma, AZ</text>
+<circle cx="545.4368816711635" cy="359.93783323377795" r="5" fill="red"/>
+<text x="553.4368816711635" y="363.93783323377795" font-size="10" fill="black">Flagstaff, AZ</text>
+<circle cx="660.6088117338946" cy="341.69708634764714" r="5" fill="red"/>
+<text x="668.6088117338946" y="345.69708634764714" font-size="10" fill="black">Gallup, NM</text>
+</svg>
